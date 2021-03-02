@@ -3,5 +3,6 @@
     "stMonth":3, 
     "stDay":2, 
     "stHour":15, 
-    "stMinute":30 
+    "stMinute":30,
+    "stCount":100
 }
