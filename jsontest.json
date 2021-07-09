@@ -4,5 +4,6 @@
     "stDay":01, 
     "stHour":23, 
     "stMinute":37,
-    "stCount":300
+    "stCount":300,
+    "stMeasureLength":120
 }
